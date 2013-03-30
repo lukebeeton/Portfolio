@@ -1,0 +1,16 @@
+.menu{
+    text-align: center;
+}
+   
+.menu ul li{
+    display: inline;
+    padding: 0 0.5em 0 0.5em;
+}
+
+.centre{
+	text-align: center;
+}
+
+h2{
+	text-transform: uppercase
+}
