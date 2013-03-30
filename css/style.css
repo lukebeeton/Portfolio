@@ -12,5 +12,7 @@
 }
 
 h2{
-	text-transform: uppercase
+	text-transform: uppercase;
 }
+
+body { background-color: blue !important; }
